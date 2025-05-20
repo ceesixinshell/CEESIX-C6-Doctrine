@@ -7,3 +7,6 @@ To align AI, cybersecurity, and learning systems with human-centered values — 
 
 🛡️ Note:
 No data in this repository is tied to real persons, employers, or identifying metadata. It is shared for transparency and educational reference only.
+
+
+📎 [Quick Start Guide](CEESIX/Doctrine/QUICK_START.md)
