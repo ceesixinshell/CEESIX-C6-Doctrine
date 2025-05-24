@@ -1,5 +1,5 @@
 
-# Recreate directory and save the GRC Doctrine again due to code state reset
+# GRC Doctrine - Governance First - Civilian Responsibility
 import os
 
 vault_path = "/mnt/data/ObsidianVault/CEESIX/Doctrine"
